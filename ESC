@@ -1,0 +1,30 @@
+[33mcommit b2119894918f9f0e24cc9cb8589d4d02a4890b3a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e38ce5b d0a47c0
+Author: Nasif <nhossain@ualberta.ca>
+Date:   Tue Oct 1 17:47:27 2019 -0600
+
+    merge
+
+[33mcommit e38ce5bcb761a720fc91ea475d685787703294bb[m
+Author: Nasif <nhossain@ualberta.ca>
+Date:   Tue Oct 1 17:42:38 2019 -0600
+
+    conflicting
+
+[33mcommit d0a47c092e894c6ccefa0a59b156774091f363e8[m
+Author: Nasif Hossain <34114501+pickabo@users.noreply.github.com>
+Date:   Tue Oct 1 17:41:54 2019 -0600
+
+    Create conflict
+
+[33mcommit 4d68a1fcacea3d27f4197fdcc4bc23d0a126f554[m
+Author: Nasif <nhossain@ualberta.ca>
+Date:   Tue Oct 1 17:20:56 2019 -0600
+
+    added a readme
+
+[33mcommit 1bff3948422875dc034001e05e8f4ba7288ed6a4[m
+Author: Nasif Hossain <34114501+pickabo@users.noreply.github.com>
+Date:   Tue Oct 1 17:16:43 2019 -0600
+
+    Initial commit
